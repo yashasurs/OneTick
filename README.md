@@ -1,4 +1,4 @@
-# 🎓 Student Leave Management & Attendance System
+# 🎓OneTick
 
 A MERN stack application designed for colleges to manage student leave requests and daily attendance efficiently, with role-based access and analytics.
 
